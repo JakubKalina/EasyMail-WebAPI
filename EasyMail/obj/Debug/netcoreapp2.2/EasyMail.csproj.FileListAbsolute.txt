@@ -1,0 +1,14 @@
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\bin\Debug\netcoreapp2.2\EasyMail.deps.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\bin\Debug\netcoreapp2.2\EasyMail.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\bin\Debug\netcoreapp2.2\EasyMail.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\bin\Debug\netcoreapp2.2\EasyMail.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.RazorAssemblyInfo.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.RazorAssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.RazorTargetAssemblyInfo.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\bin\Debug\netcoreapp2.2\EasyMail.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.pdb

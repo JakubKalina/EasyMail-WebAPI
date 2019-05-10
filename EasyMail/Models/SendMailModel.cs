@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace EasyMail.Models
+{
+    public class SendMailModel
+    {
+        /// <summary>
+        /// Nadawca
+        /// </summary>
+        public string Sender { get; set; }
+        /// <summary>
+        /// Hasło
+        /// </summary>
+        public string Password { get; set; }
+        /// <summary>
+        /// Temat wiadomości
+        /// </summary>
+        public string Subject { get; set; }
+        /// <summary>
+        /// Treść wiadomości
+        /// </summary>
+        public string Message { get; set; }
+        /// <summary>
+        /// Lista adresatów
+        /// </summary>
+        public IList<string> Recipients { get; set; }
+    }
+}
