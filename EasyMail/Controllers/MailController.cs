@@ -29,18 +29,7 @@ namespace EasyMail.Controllers
         [HttpGet]
         public ActionResult<string> Index()
         {
-            return "get działa LOL";
-        }
-
-        /// <summary>
-        /// Testowy post
-        /// </summary>
-        /// <returns></returns>
-        [Route("lol")]
-        [HttpPost]
-        public ActionResult<string> PostTest()
-        {
-            return "Post działa";
+            return DateTime.Now.ToLongTimeString();
         }
 
         ///// <summary>
@@ -58,7 +47,15 @@ namespace EasyMail.Controllers
         [HttpPost]
         public ActionResult<string> SendMail([FromBody]SendMailModel model)
         {
-            return "poszło";
+            //this.mailService.SendMail(model);
+            //if (this.mailService.SendMail(model) == true)
+            //{
+            //    return "1";
+            //}
+            //else
+            //{
+            //    return "0";
+            //}
         }
 
     }
