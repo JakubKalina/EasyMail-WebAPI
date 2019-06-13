@@ -27,5 +27,9 @@ namespace EasyMail.Models
         /// Lista adresatów
         /// </summary>
         public IList<string> Recipients { get; set; }
+        /// <summary>
+        /// Wybrany serwer pocztowy
+        /// </summary>
+        public string Server { get; set; }
     }
 }
