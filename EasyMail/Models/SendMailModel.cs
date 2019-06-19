@@ -31,5 +31,9 @@ namespace EasyMail.Models
         /// Wybrany serwer pocztowy
         /// </summary>
         public string Server { get; set; }
+        /// <summary>
+        /// Przerwa pomiędzy kolejnymi wiadomościami
+        /// </summary>
+        public int TimeBreak { get; set; }
     }
 }

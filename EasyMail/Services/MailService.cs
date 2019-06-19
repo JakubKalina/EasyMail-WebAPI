@@ -18,8 +18,33 @@ namespace EasyMail.Services
         {
             try
             {
+                string mailServer = "";
+                int mailPort = 0;
+                switch(mailModel.Server)
+                {
+                    case "Gmail":
+                        mailServer = "smtp.gmail.com";
+                        mailPort = 587;
+                        break;
+                    case "Yahoo!":
+                        mailServer = "smtp.mail.yahoo.com";
+                        mailPort = 587;
+                        break;
+                    case "iCloud":
+                        mailServer = "smtp.mail.me.com";
+                        mailPort = 587;
+                        break;
+                    case "MSN":
+                        mailServer = "smtp-mail.outlook.com";
+                        mailPort = 587;
+                        break;
+                    case "Outlook":
+                        mailServer = "smtp.live.com";
+                        mailPort = 587;
+                        break;
+                }
                 // Utworzenie nowego klienta mailowego
-                SmtpClient mailClient = new SmtpClient("smtp.gmail.com", 587);
+                SmtpClient mailClient = new SmtpClient(mailServer, mailPort);
                 mailClient.EnableSsl = true;
                 mailClient.Credentials = new System.Net.NetworkCredential(mailModel.Sender, mailModel.Password);
                 // Lista adresów na które nie udało się wysłać maila
