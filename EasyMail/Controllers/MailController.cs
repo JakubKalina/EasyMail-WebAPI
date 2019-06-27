@@ -23,7 +23,7 @@ namespace EasyMail.Controllers
         }
 
         /// <summary>
-        /// Testowy get
+        /// Zwraca aktualną date z serwera
         /// </summary>
         /// <returns></returns>
         [HttpGet]
@@ -48,7 +48,7 @@ namespace EasyMail.Controllers
         public ActionResult<string> SendMail([FromBody]SendMailModel model)
         {
             //this.mailService.SendMail(model);
-            //if (this.mailService.SendMail(model) == true)
+            //if (this.mailService.SendMail(model))
             //{
             //    return "1";
             //}

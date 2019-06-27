@@ -1,0 +1,16 @@
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\EasyMail.Tests.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\EasyMail.Tests.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\obj\Debug\EasyMail.Tests.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\obj\Debug\EasyMail.Tests.csproj.CopyComplete
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\obj\Debug\EasyMail.Tests.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.Tests\obj\Debug\EasyMail.Tests.pdb

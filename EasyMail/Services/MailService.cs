@@ -10,6 +10,53 @@ namespace EasyMail.Services
     public class MailService
     {
         /// <summary>
+        /// Zwraca adres serwera mailowego
+        /// </summary>
+        /// <param name="serverName">Nazwa servera</param>
+        /// <returns></returns>
+        public string GetMailServer(string serverName)
+        {
+            switch (serverName)
+            {
+                case "Gmail":
+                    return "smtp.gmail.com";
+                case "Yahoo!":
+                    return "smtp.mail.yahoo.com";
+                case "iCloud":
+                    return "smtp.mail.me.com";
+                case "MSN":
+                    return "smtp-mail.outlook.com";
+                case "Outlook":
+                    return "smtp.live.com";
+                default:
+                    return String.Empty;
+            }
+        }
+
+        /// <summary>
+        /// Zwraca port serwera mailowego
+        /// </summary>
+        /// <param name="serverName">Nazwa servera</param>
+        /// <returns></returns>
+        public int GetMailPort(string serverName)
+        {
+            switch (serverName)
+            {
+                case "Gmail":
+                    return 587;
+                case "Yahoo!":
+                    return 587;
+                case "iCloud":
+                    return 587;
+                case "MSN":
+                    return 587;
+                case "Outlook":
+                    return 587;
+                default:
+                    return 0;
+            }
+        }
+        /// <summary>
         /// Metoda wysyłająca mail do listy adresatów
         /// </summary>
         /// <param name="mailModel"></param>
@@ -18,31 +65,9 @@ namespace EasyMail.Services
         {
             try
             {
-                string mailServer = "";
-                int mailPort = 0;
-                switch(mailModel.Server)
-                {
-                    case "Gmail":
-                        mailServer = "smtp.gmail.com";
-                        mailPort = 587;
-                        break;
-                    case "Yahoo!":
-                        mailServer = "smtp.mail.yahoo.com";
-                        mailPort = 587;
-                        break;
-                    case "iCloud":
-                        mailServer = "smtp.mail.me.com";
-                        mailPort = 587;
-                        break;
-                    case "MSN":
-                        mailServer = "smtp-mail.outlook.com";
-                        mailPort = 587;
-                        break;
-                    case "Outlook":
-                        mailServer = "smtp.live.com";
-                        mailPort = 587;
-                        break;
-                }
+                string mailServer = GetMailServer(mailModel.Server);
+                int mailPort = GetMailPort(mailModel.Server);
+
                 // Utworzenie nowego klienta mailowego
                 SmtpClient mailClient = new SmtpClient(mailServer, mailPort);
                 mailClient.EnableSsl = true;

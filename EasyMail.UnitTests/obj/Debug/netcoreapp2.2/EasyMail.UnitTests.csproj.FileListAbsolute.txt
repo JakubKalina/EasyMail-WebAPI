@@ -1,0 +1,17 @@
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.UnitTests.deps.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.UnitTests.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.UnitTests.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.UnitTests.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.UnitTests.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\bin\Debug\netcoreapp2.2\EasyMail.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.csproj.CopyComplete
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail.UnitTests\obj\Debug\netcoreapp2.2\EasyMail.UnitTests.pdb
