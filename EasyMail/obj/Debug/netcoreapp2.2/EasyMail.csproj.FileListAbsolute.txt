@@ -11,3 +11,4 @@ E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\o
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.RazorTargetAssemblyInfo.cache
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.dll
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Web API\EasyMail\EasyMail\EasyMail\obj\Debug\netcoreapp2.2\EasyMail.csprojAssemblyReference.cache

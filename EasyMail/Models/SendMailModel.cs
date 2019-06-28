@@ -35,5 +35,13 @@ namespace EasyMail.Models
         /// Przerwa pomiędzy kolejnymi wiadomościami
         /// </summary>
         public int TimeBreak { get; set; }
+
+        /// <summary>
+        /// Konstruktor bez parametrów
+        /// </summary>
+        public SendMailModel()
+        {
+            this.Recipients = new List<string>();
+        }
     }
 }
